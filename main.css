@@ -4,8 +4,9 @@
 
 body{
 
-	background:white;
+	background: #ABDAF8;
 	font-family: sans-serif;
+
 }
 
 h1{
@@ -13,14 +14,14 @@ h1{
 }
 
 p{
-	width: 50%;
-	margin: 50px;
-	font-size: 1em;
+	width: 30%;
+	margin: 30px;
+	font-size: 3em;
 }
 
 .main{	
 	width: 80%;
-	margin: 100px auto;	
+	margin: 50px auto;	
 }
 
 .space{
@@ -47,7 +48,7 @@ p{
 
 #capitalize{
 	text-transform: capitalize;
-	font-weight: 700;
+	font-weight: 1000;
 }
 
 #uppercase{
@@ -58,13 +59,13 @@ p{
 
 #lowercase{
 	text-transform: lowercase;
-	font-weight: lighter;
-	font-size: 1em;
+	font-weight: bold;
+	font-size: 2em;
 }
 
 .center{
 	text-align: center;
-	padding: 20px;
+	padding: 30px;
 }
 
 #underline{
