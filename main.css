@@ -1,6 +1,4 @@
-* {
-	box-sizing: border-box;
-}
+
 
 body{
 
@@ -32,10 +30,10 @@ p{
 	line-height: 3em;
 }
 
-#blue-bold{
+#pink-bold{
 	color: #F5B7B1;
 	font-weight: normal;
-	font-style: oblique;
+	font-style: normal;
 }
 
 #four-hundred{
