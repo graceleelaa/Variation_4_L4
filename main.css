@@ -4,23 +4,24 @@
 
 body{
 
-	background:white;
+	background:green;
 	font-family: sans-serif;
+	color: #F5B7B1;
 }
 
 h1{
-	font-size: 3em;
+	font-size: 5em;
 }
 
 p{
-	width: 50%;
-	margin: 50px;
-	font-size: 1em;
+	width: 100%;
+	margin: 100px;
+	font-size: 2em;
 }
 
 .main{	
-	width: 80%;
-	margin: 100px auto;	
+	width: 100%;
+	margin: 150px auto;	
 }
 
 .space{
